@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Noutrock
 - 👀 I’m interested in back end
-- 🌱 I’m currently learning back end, in this days i'm learning mongoDB
+- 🌱 I’m currently learning ApiRestFramewrok
 - 📫 How to reach me matiasferrari637@gmail.com
 
 <!---
